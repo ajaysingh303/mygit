@@ -1,0 +1,8 @@
+hi this Is My First git 
+
+Create azure Landing zone Services
+
+Account
+network
+Stoarge
+compute
